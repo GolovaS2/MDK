@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|c:\\users\\afeaa\\source\\repos\\classroombooking\\classroombooking\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|solutionrelative:classroombooking\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|c:\\users\\afeaa\\source\\repos\\classroombooking\\classroombooking\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|solutionrelative:classroombooking\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|c:\\users\\afeaa\\source\\repos\\classroombooking\\classroombooking\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|solutionrelative:classroombooking\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|c:\\users\\afeaa\\source\\repos\\classroombooking\\classroombooking\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|solutionrelative:classroombooking\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|c:\\users\\afeaa\\source\\repos\\classroombooking\\classroombooking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|solutionrelative:classroombooking\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|c:\\users\\afeaa\\source\\repos\\classroombooking\\classroombooking\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|solutionrelative:classroombooking\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|c:\\users\\afeaa\\source\\repos\\classroombooking\\classroombooking\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|solutionrelative:classroombooking\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|c:\\users\\afeaa\\source\\repos\\classroombooking\\classroombooking\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B35BD5F-B427-46BB-A692-0BAD1A61EDA6}|ClassroomBooking\\ClassroomBooking.csproj|solutionrelative:classroombooking\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "ClassroomBooking\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\Services\\BookingService.cs",
+              "RelativeToolTip": "ClassroomBooking\\Services\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T13:19:01.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "ClassroomBooking\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\Services\\RoomService.cs",
+              "RelativeToolTip": "ClassroomBooking\\Services\\RoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T12:41:18.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ClassroomBooking\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\Services\\UserService.cs",
+              "RelativeToolTip": "ClassroomBooking\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T12:35:16.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "ClassroomBooking\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\Models\\Booking.cs",
+              "RelativeToolTip": "ClassroomBooking\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T12:32:22.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "ClassroomBooking\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\Models\\Room.cs",
+              "RelativeToolTip": "ClassroomBooking\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T12:30:02.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ClassroomBooking\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\Models\\User.cs",
+              "RelativeToolTip": "ClassroomBooking\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T12:27:38.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ClassroomBooking\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\MainWindow.xaml",
+              "RelativeToolTip": "ClassroomBooking\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-07T12:22:25.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClassroomBooking\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\afeaa\\source\\repos\\ClassroomBooking\\ClassroomBooking\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ClassroomBooking\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T12:22:24.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
